@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{027800B3-D867-43E2-B21C-008B706D749D}|hello_fighter_2D_game.vcxproj|D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027800B3-D867-43E2-B21C-008B706D749D}|hello_fighter_2D_game.vcxproj|solutionrelative:mian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027800B3-D867-43E2-B21C-008B706D749D}|hello_fighter_2D_game.vcxproj|D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027800B3-D867-43E2-B21C-008B706D749D}|hello_fighter_2D_game.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{027800B3-D867-43E2-B21C-008B706D749D}|hello_fighter_2D_game.vcxproj|D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{027800B3-D867-43E2-B21C-008B706D749D}|hello_fighter_2D_game.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-12-24T05:57:47.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-24T06:04:00.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mian.cpp",
+              "DocumentMoniker": "D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\mian.cpp",
+              "RelativeDocumentMoniker": "mian.cpp",
+              "ToolTip": "D:\\Projects\\hello_fighter\\hello_fighter_2D_game\\mian.cpp",
+              "RelativeToolTip": "mian.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-23T16:47:48.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
